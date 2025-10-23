@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Videos Subtitulados</title>
+  <link rel="stylesheet" href="css/estilo.css" />
+</head>
+<body>
+  <header>
+    <h1>Videos Subtitulados</h1>
+    <nav>
+      <a href="/">Inicio</a>
+      <a href="/teens/">Teens</a>
+      <a href="/maduras/">Maduras</a>
+      <a href="/interracial/">Interracial</a>
+      <a href="/peliculas-accion/">Acción</a>
+      <a href="/anime/">Anime</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Explora por categoría</h2>
+      <p>Videos con subtítulos en español.</p>
+    </section>
+
+    <div class="categorias">
+      <a href="/teens/" class="cat-card">Teens</a>
+      <a href="/maduras/" class="cat-card">Maduras</a>
+      <a href="/interracial/" class="cat-card">Interracial</a>
+      <a href="/peliculas-accion/" class="cat-card">Acción</a>
+      <a href="/anime/" class="cat-card">Anime</a>
+    </div>
+  </main>
+</body>
+</html>
